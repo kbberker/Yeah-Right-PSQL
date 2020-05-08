@@ -1,0 +1,5 @@
+CREATE TABLE games
+(
+  id SERIAL PRIMARY KEY,
+  pin INTEGER
+);
